@@ -1,23 +1,24 @@
+# Gem Project Configuration (Dual Repo)
+
 settings:
   project_root: "projects/finance/gem-site"
   data_dir: "projects/finance/gem-site/data"
   output_dir: "projects/finance/gem-site/outputs"
   archive_dir: "projects/finance/gem-site/data/archive"
   history_file: "history.json"
+  
+  # Git Repositories
+  repo_private: "https://github.com/blessing-openclaw/gem-data-vault.git"
+  repo_public: "https://github.com/blessing-openclaw/gem-dashboard.git"
 
 columns_mapping:
-  # Common
   date: "日期"
-  
-  # Sheet 2 (Main Data)
   close: "加權指數"
   change_pct: "加權指數漲跌幅(%)"
   foreign_fut_oi: "外資(大小台)期貨未平倉"
   foreign_fut_chg: "外資期貨未平倉與前日增減"
   foreign_spot: "外資現貨買賣超"
   retail_ratio: "散戶買/賣權比"
-  
-  # Sheet 1 (Option Details) - Note: CSV headers might have spaces
   foreign_bc_amt: "外資BC金額"
   foreign_bp_amt: "外資BP金額"
   foreign_sc_amt: "外資SC金額"
