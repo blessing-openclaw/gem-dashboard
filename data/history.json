@@ -1,9 +1,422 @@
 [
   {
+    "date": "2025-11-17",
+    "close": 27447.31,
+    "score": 0,
+    "retail_ratio": 2.057,
+    "f_fut_oi": -29976
+  },
+  {
+    "date": "2025-11-18",
+    "close": 26756.12,
+    "score": 0,
+    "retail_ratio": 0.916,
+    "f_fut_oi": -34067
+  },
+  {
+    "date": "2025-11-19",
+    "close": 26580.12,
+    "score": 0,
+    "retail_ratio": 1.459,
+    "f_fut_oi": -31751
+  },
+  {
+    "date": "2025-11-20",
+    "close": 27426.36,
+    "score": 0,
+    "retail_ratio": 3.485,
+    "f_fut_oi": -22969
+  },
+  {
+    "date": "2025-11-21",
+    "close": 26434.94,
+    "score": 0,
+    "retail_ratio": 1.106,
+    "f_fut_oi": -34375
+  },
+  {
+    "date": "2025-11-24",
+    "close": 26504.24,
+    "score": 0,
+    "retail_ratio": 1.456,
+    "f_fut_oi": -31077
+  },
+  {
+    "date": "2025-11-25",
+    "close": 26912.17,
+    "score": 0,
+    "retail_ratio": 1.854,
+    "f_fut_oi": -30064
+  },
+  {
+    "date": "2025-11-26",
+    "close": 27409.54,
+    "score": 0,
+    "retail_ratio": 2.326,
+    "f_fut_oi": -28003
+  },
+  {
+    "date": "2025-11-27",
+    "close": 27554.53,
+    "score": 0,
+    "retail_ratio": 3.52,
+    "f_fut_oi": -26339
+  },
+  {
+    "date": "2025-11-28",
+    "close": 27626.48,
+    "score": 0,
+    "retail_ratio": 3.739,
+    "f_fut_oi": -24610
+  },
+  {
+    "date": "2025-12-01",
+    "close": 27342.53,
+    "score": 0,
+    "retail_ratio": 2.548,
+    "f_fut_oi": -28833
+  },
+  {
+    "date": "2025-12-02",
+    "close": 27564.27,
+    "score": 0,
+    "retail_ratio": 3.232,
+    "f_fut_oi": -27645
+  },
+  {
+    "date": "2025-12-03",
+    "close": 27793.04,
+    "score": 0,
+    "retail_ratio": 2.617,
+    "f_fut_oi": -28516
+  },
+  {
+    "date": "2025-12-04",
+    "close": 27795.71,
+    "score": 0,
+    "retail_ratio": 2.684,
+    "f_fut_oi": -28710
+  },
+  {
+    "date": "2025-12-05",
+    "close": 27980.89,
+    "score": 0,
+    "retail_ratio": 3.422,
+    "f_fut_oi": -24688
+  },
+  {
+    "date": "2025-12-08",
+    "close": 28303.78,
+    "score": 0,
+    "retail_ratio": 3.405,
+    "f_fut_oi": -25454
+  },
+  {
+    "date": "2025-12-09",
+    "close": 28182.6,
+    "score": 0,
+    "retail_ratio": 2.288,
+    "f_fut_oi": -31274
+  },
+  {
+    "date": "2025-12-10",
+    "close": 28400.73,
+    "score": 0,
+    "retail_ratio": 3.439,
+    "f_fut_oi": -27174
+  },
+  {
+    "date": "2025-12-11",
+    "close": 28024.75,
+    "score": 0,
+    "retail_ratio": 2.541,
+    "f_fut_oi": -31338
+  },
+  {
+    "date": "2025-12-12",
+    "close": 28198.02,
+    "score": 0,
+    "retail_ratio": 3.635,
+    "f_fut_oi": -28239
+  },
+  {
+    "date": "2025-12-15",
+    "close": 27866.94,
+    "score": 0,
+    "retail_ratio": 2.304,
+    "f_fut_oi": -33574
+  },
+  {
+    "date": "2025-12-16",
+    "close": 27536.66,
+    "score": 0,
+    "retail_ratio": 1.485,
+    "f_fut_oi": -33994
+  },
+  {
+    "date": "2025-12-17",
+    "close": 27525.17,
+    "score": 0,
+    "retail_ratio": 0.599,
+    "f_fut_oi": -29987
+  },
+  {
+    "date": "2025-12-18",
+    "close": 27468.53,
+    "score": 0,
+    "retail_ratio": 0.692,
+    "f_fut_oi": -28302
+  },
+  {
+    "date": "2025-12-19",
+    "close": 27696.35,
+    "score": 0,
+    "retail_ratio": 1.056,
+    "f_fut_oi": -23563
+  },
+  {
+    "date": "2025-12-22",
+    "close": 28149.64,
+    "score": 0,
+    "retail_ratio": 1.204,
+    "f_fut_oi": -24269
+  },
+  {
+    "date": "2025-12-23",
+    "close": 28310.47,
+    "score": 0,
+    "retail_ratio": 1.239,
+    "f_fut_oi": -23921
+  },
+  {
+    "date": "2025-12-24",
+    "close": 28371.98,
+    "score": 0,
+    "retail_ratio": 1.325,
+    "f_fut_oi": -23882
+  },
+  {
+    "date": "2025-12-26",
+    "close": 28556.02,
+    "score": 0,
+    "retail_ratio": 1.526,
+    "f_fut_oi": -22163
+  },
+  {
+    "date": "2025-12-29",
+    "close": 28810.89,
+    "score": 0,
+    "retail_ratio": 1.731,
+    "f_fut_oi": -20796
+  },
+  {
+    "date": "2025-12-30",
+    "close": 28707.13,
+    "score": 0,
+    "retail_ratio": 1.298,
+    "f_fut_oi": -26060
+  },
+  {
+    "date": "2025-12-31",
+    "close": 28963.6,
+    "score": 0,
+    "retail_ratio": 1.714,
+    "f_fut_oi": -24045
+  },
+  {
+    "date": "2026-01-02",
+    "close": 29349.81,
+    "score": 0,
+    "retail_ratio": 2.299,
+    "f_fut_oi": -20932
+  },
+  {
+    "date": "2026-01-05",
+    "close": 30105.04,
+    "score": 0,
+    "retail_ratio": 4.104,
+    "f_fut_oi": -23320
+  },
+  {
+    "date": "2026-01-06",
+    "close": 30576.3,
+    "score": 0,
+    "retail_ratio": 3.329,
+    "f_fut_oi": -28822
+  },
+  {
+    "date": "2026-01-07",
+    "close": 30435.47,
+    "score": 0,
+    "retail_ratio": 3.431,
+    "f_fut_oi": -28911
+  },
+  {
+    "date": "2026-01-08",
+    "close": 30360.55,
+    "score": 0,
+    "retail_ratio": 4.1,
+    "f_fut_oi": -24943
+  },
+  {
+    "date": "2026-01-09",
+    "close": 30288.96,
+    "score": 0,
+    "retail_ratio": 3.221,
+    "f_fut_oi": -25733
+  },
+  {
+    "date": "2026-01-12",
+    "close": 30567.29,
+    "score": 0,
+    "retail_ratio": 3.805,
+    "f_fut_oi": -26309
+  },
+  {
+    "date": "2026-01-13",
+    "close": 30707.22,
+    "score": 0,
+    "retail_ratio": 3.666,
+    "f_fut_oi": -29847
+  },
+  {
+    "date": "2026-01-14",
+    "close": 30941.78,
+    "score": 0,
+    "retail_ratio": 3.572,
+    "f_fut_oi": -33404
+  },
+  {
+    "date": "2026-01-15",
+    "close": 30810.58,
+    "score": 0,
+    "retail_ratio": 4.145,
+    "f_fut_oi": -33430
+  },
+  {
+    "date": "2026-01-16",
+    "close": 31408.7,
+    "score": 0,
+    "retail_ratio": 4.587,
+    "f_fut_oi": -30997
+  },
+  {
+    "date": "2026-01-19",
+    "close": 31639.29,
+    "score": 0,
+    "retail_ratio": 5.368,
+    "f_fut_oi": -31351
+  },
+  {
+    "date": "2026-01-20",
+    "close": 31759.99,
+    "score": 0,
+    "retail_ratio": 5.306,
+    "f_fut_oi": -30332
+  },
+  {
+    "date": "2026-01-21",
+    "close": 31246.37,
+    "score": 0,
+    "retail_ratio": 2.368,
+    "f_fut_oi": -24749
+  },
+  {
+    "date": "2026-01-22",
+    "close": 31746.08,
+    "score": 0,
+    "retail_ratio": 2.889,
+    "f_fut_oi": -23767
+  },
+  {
+    "date": "2026-01-23",
+    "close": 31961.51,
+    "score": 0,
+    "retail_ratio": 3.818,
+    "f_fut_oi": -21415
+  },
+  {
+    "date": "2026-01-26",
+    "close": 32064.52,
+    "score": 0,
+    "retail_ratio": 4.553,
+    "f_fut_oi": -26069
+  },
+  {
+    "date": "2026-01-27",
+    "close": 32317.92,
+    "score": 0,
+    "retail_ratio": 3.789,
+    "f_fut_oi": -23972
+  },
+  {
+    "date": "2026-01-28",
+    "close": 32803.82,
+    "score": 0,
+    "retail_ratio": 3.891,
+    "f_fut_oi": -26551
+  },
+  {
+    "date": "2026-01-29",
+    "close": 32536.27,
+    "score": 0,
+    "retail_ratio": 2.238,
+    "f_fut_oi": -32809
+  },
+  {
+    "date": "2026-01-30",
+    "close": 32063.75,
+    "score": 0,
+    "retail_ratio": 2.359,
+    "f_fut_oi": -32658
+  },
+  {
+    "date": "2026-02-02",
+    "close": 31624.03,
+    "score": 0,
+    "retail_ratio": 1.372,
+    "f_fut_oi": -27334
+  },
+  {
+    "date": "2026-02-03",
+    "close": 32195.36,
+    "score": 0,
+    "retail_ratio": 3.212,
+    "f_fut_oi": -25915
+  },
+  {
+    "date": "2026-02-04",
+    "close": 32289.81,
+    "score": 0,
+    "retail_ratio": 3.446,
+    "f_fut_oi": -24112
+  },
+  {
+    "date": "2026-02-05",
+    "close": 31801.27,
+    "score": 0,
+    "retail_ratio": 1.94,
+    "f_fut_oi": -26438
+  },
+  {
+    "date": "2026-02-06",
+    "close": 31782.92,
+    "score": 0,
+    "retail_ratio": 2.35,
+    "f_fut_oi": -23882
+  },
+  {
     "date": "2026-02-09",
     "close": 32404.62,
     "score": -0.5,
     "retail_ratio": 8.347,
     "f_fut_oi": -22136
+  },
+  {
+    "date": "2026-02-10",
+    "close": 33072.97,
+    "score": -1.0,
+    "retail_ratio": 2239.231,
+    "f_fut_oi": -22710
   }
 ]
